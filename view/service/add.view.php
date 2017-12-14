@@ -26,7 +26,6 @@
                         {
                             echo "<option value='".(int)$ligne->idserv."'> $ligne->nomserv </option>";
                         }
-
                     ?>
                 </select>
             </div>
